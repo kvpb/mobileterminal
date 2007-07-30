@@ -1,1 +1,7 @@
 * text=auto !eol
+/Info.plist -text
+/Makefile -text
+/NSObject.h -text
+/TermApplication.h -text
+/TermApplication.m -text
+/term.m -text
