@@ -1,5 +1,4 @@
 * text=auto !eol
-/CHANGELOG -text
 /Info.plist -text
 /Makefile -text
 /MobileTerminal.h -text
