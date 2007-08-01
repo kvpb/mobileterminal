@@ -1,11 +1,9 @@
 * text=auto !eol
+/CHANGELOG -text
 /Info.plist -text
 /Makefile -text
 /MyController.h -text
 /MyController.m -text
-/NSObject.h -text
-/PTYTask.h -text
-/PTYTask.m -text
 /TermApplication.h -text
 /TermApplication.m -text
 /term.m -text
