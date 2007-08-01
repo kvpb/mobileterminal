@@ -2,6 +2,8 @@
 /CHANGELOG -text
 /Info.plist -text
 /Makefile -text
-/TermApplication.h -text
-/TermApplication.m -text
-/term.m -text
+/MobileTerminal.h -text
+/MobileTerminal.m -text
+/README -text
+/icon.png -text
+/main.m -text
