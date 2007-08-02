@@ -1,4 +1,5 @@
 * text=auto !eol
+/Default.png -text
 /Info.plist -text
 /Makefile -text
 /MobileTerminal.h -text
