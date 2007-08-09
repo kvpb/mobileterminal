@@ -11,6 +11,8 @@
 /ShellKeyboard.m -text
 /ShellView.h -text
 /ShellView.m -text
+/SubProcess.h -text
+/SubProcess.m -text
 /bar.png -text
 /icon.png -text
 /main.m -text
