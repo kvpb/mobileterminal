@@ -1,20 +1,20 @@
 * text=auto !eol
 /Cleanup.h -text
 /Common.h -text
-/Default.png -text
 /Info.plist -text
 /Makefile -text
 /MobileTerminal.h -text
 /MobileTerminal.m -text
 /README -text
 /ROADMAP -text
+Resources/Default.png -text
+Resources/bar.png -text
+Resources/icon.png -text
+Resources/vanish.png -text
 /ShellKeyboard.h -text
 /ShellKeyboard.m -text
 /ShellView.h -text
 /ShellView.m -text
 /SubProcess.h -text
 /SubProcess.m -text
-/bar.png -text
-/icon.png -text
 /main.m -text
-/vanish.png -text
