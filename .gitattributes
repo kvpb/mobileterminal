@@ -17,13 +17,22 @@
 /ROADMAP -text
 Resources/Default.png -text
 Resources/bar.png -text
+Resources/close.png -text
 Resources/icon.png -text
+Resources/keyboard.png -text
+Resources/new-disabled.png -text
+Resources/new-enabled.png -text
 Resources/pie.png -text svneol=unset#unset
+Resources/prefs.png -text
+Resources/status-selected.png -text
+Resources/status-unselected.png -text
 Resources/vanish.png -text
 /Settings.h -text
 /Settings.m -text
 /ShellKeyboard.h -text
 /ShellKeyboard.m -text
+/StatusView.h -text
+/StatusView.m -text
 /SubProcess.h -text
 /SubProcess.m -text
 /VT100Screen.h -text
