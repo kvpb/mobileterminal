@@ -4,7 +4,10 @@
 /GestureView.h -text
 /GestureView.m -text
 /Info.plist -text
+/Log.h -text
+/Log.m -text
 /Makefile -text
+/Makefile.build -text
 /MobileTerminal.h -text
 /MobileTerminal.m -text
 /PTYTextView.h -text
@@ -26,6 +29,7 @@ Resources/vanish.png -text
 /ShellKeyboard.m -text
 /SubProcess.h -text
 /SubProcess.m -text
+Terminal.xcodeproj/project.pbxproj -text
 /VT100Screen.h -text
 /VT100Screen.m -text
 /VT100Terminal.h -text
