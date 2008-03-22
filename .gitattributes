@@ -20,6 +20,14 @@
 /README -text
 /ROADMAP -text
 Resources/Default.png -text
+Resources/Default_MobileTerminal0.png -text
+Resources/Default_MobileTerminal1.png -text
+Resources/Default_MobileTerminal2.png -text
+Resources/Default_MobileTerminal3.png -text
+Resources/FSO_MobileTerminal0.png -text
+Resources/FSO_MobileTerminal1.png -text
+Resources/FSO_MobileTerminal2.png -text
+Resources/FSO_MobileTerminal3.png -text
 Resources/bar.png -text
 Resources/icon.png -text
 Resources/pie.png -text svneol=unset#unset
