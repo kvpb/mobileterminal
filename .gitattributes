@@ -2,6 +2,7 @@
 /CHANGELOG -text
 /ColorMap.h -text
 /ColorMap.m -text
+/Constants.h -text
 /GestureView.h -text
 /GestureView.m -text
 /Info.plist -text
