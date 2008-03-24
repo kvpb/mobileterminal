@@ -3,6 +3,7 @@
 /ColorMap.h -text
 /ColorMap.m -text
 /Constants.h -text
+/Constants.m -text
 /GestureView.h -text
 /GestureView.m -text
 /Info.plist -text
@@ -18,6 +19,8 @@
 /PTYTile.m -text
 /PieView.h -text
 /PieView.m -text
+/Preferences.h -text
+/Preferences.m -text
 /README -text
 /ROADMAP -text
 Resources/Default.png -text
