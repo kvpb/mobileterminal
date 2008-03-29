@@ -9,8 +9,6 @@
 /Info.plist -text
 /Log.h -text
 /Log.m -text
-/MainWindow.h -text
-/MainWindow.m -text
 /Makefile -text
 /Makefile.build -text
 /MobileTerminal.h -text
