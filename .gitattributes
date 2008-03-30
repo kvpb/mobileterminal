@@ -11,6 +11,8 @@
 /Log.m -text
 /Makefile -text
 /Makefile.build -text
+/Menu.h -text
+/Menu.m -text
 /MobileTerminal.h -text
 /MobileTerminal.m -text
 /PTYTextView.h -text
