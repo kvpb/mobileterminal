@@ -1,5 +1,7 @@
 * text=auto !eol
 /CHANGELOG -text
+/ColorChooser.h -text
+/ColorChooser.m -text
 /ColorMap.h -text
 /ColorMap.m -text
 /Constants.h -text
@@ -38,6 +40,12 @@ Resources/FSO_MobileTerminal3.png -text
 Resources/bar.png -text
 Resources/circles.xcf -text
 Resources/icon.png -text
+Resources/lupe5bo.png -text
+Resources/lupe5bv.png -text
+Resources/lupe5wo.png -text
+Resources/lupe5wv.png -text
+Resources/menubutton.png -text
+Resources/menubuttonpressed.png -text
 Resources/pie.png -text svneol=unset#unset
 Resources/vanish.png -text
 /Settings.h -text
@@ -51,5 +59,7 @@ Terminal.xcodeproj/project.pbxproj -text
 /VT100Screen.m -text
 /VT100Terminal.h -text
 /VT100Terminal.m -text
+/Vector.h -text
+/Vector.m -text
 /charmaps.h -text
 /main.m -text
