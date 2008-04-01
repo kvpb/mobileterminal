@@ -1,7 +1,7 @@
 * text=auto !eol
 /CHANGELOG -text
-/ColorChooser.h -text
-/ColorChooser.m -text
+/Color.h -text
+/Color.m -text
 /ColorMap.h -text
 /ColorMap.m -text
 /Constants.h -text
