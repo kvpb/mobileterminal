@@ -48,6 +48,8 @@ Resources/menubuttonpressed.png -text
 /SubProcess.h -text
 /SubProcess.m -text
 Terminal.xcodeproj/project.pbxproj -text
+/UINavigationController.h -text
+/UIViewController.h -text
 /VT100Screen.h -text
 /VT100Screen.m -text
 /VT100Terminal.h -text
