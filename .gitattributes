@@ -1,4 +1,6 @@
 * text=auto !eol
+Artwork/Default.xcf -text
+Artwork/circles.xcf -text
 /CHANGELOG -text
 /Color.h -text
 /Color.m -text
@@ -28,7 +30,6 @@
 /README -text
 /ROADMAP -text
 Resources/Default.png -text
-Resources/Default.xcf -text
 Resources/Default_MobileTerminal0.png -text
 Resources/Default_MobileTerminal1.png -text
 Resources/Default_MobileTerminal2.png -text
@@ -37,18 +38,9 @@ Resources/FSO_MobileTerminal0.png -text
 Resources/FSO_MobileTerminal1.png -text
 Resources/FSO_MobileTerminal2.png -text
 Resources/FSO_MobileTerminal3.png -text
-Resources/bar.png -text
-Resources/circles.xcf -text
-Resources/color_c.png -text
 Resources/icon.png -text
-Resources/lupe5bo.png -text
-Resources/lupe5bv.png -text
-Resources/lupe5wo.png -text
-Resources/lupe5wv.png -text
 Resources/menubutton.png -text
 Resources/menubuttonpressed.png -text
-Resources/pie.png -text svneol=unset#unset
-Resources/vanish.png -text
 /Settings.h -text
 /Settings.m -text
 /ShellKeyboard.h -text
