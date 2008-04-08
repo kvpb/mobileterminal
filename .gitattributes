@@ -41,6 +41,7 @@ Resources/FSO_MobileTerminal1.png -text
 Resources/FSO_MobileTerminal2.png -text
 Resources/FSO_MobileTerminal3.png -text
 Resources/icon.png -text
+Resources/menu.plist -text
 Resources/menu_button_blue.png -text
 Resources/menu_button_gray.png -text
 Resources/menu_button_white.png -text
@@ -51,6 +52,8 @@ Resources/menu_button_white.png -text
 /SubProcess.h -text
 /SubProcess.m -text
 Terminal.xcodeproj/project.pbxproj -text
+/Tools.h -text
+/Tools.m -text
 /UIFieldEditor.h -text
 /UIGradient.h -text
 /UINavigationController.h -text
