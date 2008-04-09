@@ -43,6 +43,7 @@ Resources/FSO_MobileTerminal3.png -text
 Resources/icon.png -text
 Resources/menu.plist -text
 Resources/menu_button_blue.png -text
+Resources/menu_button_darkgray.png -text
 Resources/menu_button_gray.png -text
 Resources/menu_button_white.png -text
 /Settings.h -text
