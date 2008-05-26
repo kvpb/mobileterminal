@@ -1,3 +1,4 @@
+/Terminal*.zip
 /Terminal.app
 Terminal.xcodeproj/*.pbxuser
 Terminal.xcodeproj/*.perspectivev3
