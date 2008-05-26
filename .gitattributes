@@ -80,8 +80,6 @@ Sources/UI/Preferences.h -text
 Sources/UI/Preferences.m -text
 /SubProcess.h -text
 /SubProcess.m -text
-Terminal.xcodeproj/kodi.pbxuser -text
-Terminal.xcodeproj/kodi.perspectivev3 -text
 Terminal.xcodeproj/project.pbxproj -text
 /VT100Screen.h -text
 /VT100Screen.m -text
