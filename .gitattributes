@@ -1,4 +1,6 @@
 * text=auto !eol
+Artwork/buttons.xcf -text
+Artwork/circles.xcf -text
 /CHANGELOG -text
 /ColorMap.h -text
 /ColorMap.m -text
