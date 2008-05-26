@@ -2,3 +2,4 @@
 Terminal.xcodeproj/*.pbxuser
 Terminal.xcodeproj/*.perspectivev3
 /build
+/svnversion.h

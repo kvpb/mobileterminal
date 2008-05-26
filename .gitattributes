@@ -66,6 +66,7 @@ Sources/Misc/Settings.m -text
 Sources/Misc/Tools.h -text
 Sources/Misc/Tools.m -text
 Sources/Misc/charmaps.h -text
+Sources/Misc/svnversion.py -text
 Sources/MobileTerminal.h -text
 Sources/MobileTerminal.m -text
 Sources/Terminal/SubProcess.h -text
