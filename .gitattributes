@@ -48,11 +48,6 @@ Resources/pie_white5.png -text
 Resources/pie_white6.png -text
 Resources/pie_white7.png -text
 Resources/pie_white8.png -text
-Sources/Headers/CDStructures.h -text
-Sources/Headers/UIFieldEditor.h -text
-Sources/Headers/UIGradient.h -text
-Sources/Headers/UINavigationController.h -text
-Sources/Headers/UIViewController.h -text
 Sources/Misc/Color.h -text
 Sources/Misc/Color.m -text
 Sources/Misc/ColorMap.h -text
