@@ -48,6 +48,7 @@ Resources/pie_white5.png -text
 Resources/pie_white6.png -text
 Resources/pie_white7.png -text
 Resources/pie_white8.png -text
+Sources/Headers/iPhoneOS-Compat.h -text
 Sources/Misc/Color.h -text
 Sources/Misc/Color.m -text
 Sources/Misc/ColorMap.h -text
