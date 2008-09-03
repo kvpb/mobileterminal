@@ -81,6 +81,8 @@ Sources/UI/GestureView.h -text
 Sources/UI/GestureView.m -text
 Sources/UI/Keyboard.h -text
 Sources/UI/Keyboard.m -text
+Sources/UI/MainViewController.h -text
+Sources/UI/MainViewController.m -text
 Sources/UI/Menu.h -text
 Sources/UI/Menu.m -text
 Sources/UI/PTYTextView.h -text
