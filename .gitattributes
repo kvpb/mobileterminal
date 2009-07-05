@@ -8,8 +8,11 @@ VT100/Classes/VT100Terminal.h -text
 VT100/Classes/VT100Terminal.m -text
 VT100/Classes/VT100TextView.h -text
 VT100/Classes/VT100TextView.m -text
+VT100/Tests/VT100Test.h -text
+VT100/Tests/VT100Test.m -text
 VT100/VT100-Info.plist -text
 VT100/VT100.xcodeproj/project.pbxproj -text
+VT100/VT100Tests-Info.plist -text
 VT100/VT100Types.h -text
 VT100/VT100_Prefix.pch -text
 VT100/charmaps.h -text
