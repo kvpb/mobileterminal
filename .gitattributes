@@ -1,5 +1,12 @@
 * text=auto !eol
 /README -text
+SubProcess/PTY.h -text
+SubProcess/PTY.m -text
+SubProcess/SubProcess-Info.plist -text
+SubProcess/SubProcess.h -text
+SubProcess/SubProcess.m -text
+SubProcess/SubProcess.xcodeproj/project.pbxproj -text
+SubProcess/SubProcess_Prefix.pch -text
 VT100/Classes/VT100.h -text
 VT100/Classes/VT100.m -text
 VT100/Classes/VT100Screen.h -text
