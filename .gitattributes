@@ -1,4 +1,16 @@
 * text=auto !eol
+MobileTerminal/Classes/MobileTerminalAppDelegate.h -text
+MobileTerminal/Classes/MobileTerminalAppDelegate.m -text
+MobileTerminal/Classes/MobileTerminalViewController.h -text
+MobileTerminal/Classes/MobileTerminalViewController.m -text
+MobileTerminal/Classes/TerminalKeyboard.h -text
+MobileTerminal/Classes/TerminalKeyboard.m -text
+MobileTerminal/MainWindow.xib -text
+MobileTerminal/MobileTerminal-Info.plist -text
+MobileTerminal/MobileTerminal.xcodeproj/project.pbxproj -text
+MobileTerminal/MobileTerminalViewController.xib -text
+MobileTerminal/MobileTerminal_Prefix.pch -text
+MobileTerminal/main.m -text
 /README -text
 SubProcess/PTY.h -text
 SubProcess/PTY.m -text
