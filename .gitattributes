@@ -17,6 +17,8 @@ VT100/Classes/VT100Terminal.h -text
 VT100/Classes/VT100Terminal.m -text
 VT100/Classes/VT100TextView.h -text
 VT100/Classes/VT100TextView.m -text
+VT100/Tests/ColorMapTest.h -text
+VT100/Tests/ColorMapTest.m -text
 VT100/Tests/VT100Test.h -text
 VT100/Tests/VT100Test.m -text
 VT100/VT100-Info.plist -text
