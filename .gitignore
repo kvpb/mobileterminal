@@ -3,6 +3,7 @@ MobileTerminal/MobileTerminal.xcodeproj/*.pbxuser
 MobileTerminal/build
 SubProcess/SubProcess.xcodeproj/*.mode1v3
 SubProcess/SubProcess.xcodeproj/*.pbxuser
+SubProcess/build
 VT100/VT100.xcodeproj/*.mode1v3
 VT100/VT100.xcodeproj/*.pbxuser
 VT100/build
