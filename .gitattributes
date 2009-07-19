@@ -9,6 +9,8 @@ MobileTerminal/Classes/SubProcess/SubProcess.h -text
 MobileTerminal/Classes/SubProcess/SubProcess.m -text
 MobileTerminal/Classes/TerminalKeyboard.h -text
 MobileTerminal/Classes/TerminalKeyboard.m -text
+MobileTerminal/Classes/TerminalView.h -text
+MobileTerminal/Classes/TerminalView.m -text
 MobileTerminal/Classes/VT100/ColorMap.h -text
 MobileTerminal/Classes/VT100/ColorMap.m -text
 MobileTerminal/Classes/VT100/VT100.h -text
