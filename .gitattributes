@@ -7,6 +7,8 @@ MobileTerminal/Classes/SubProcess/PTY.h -text
 MobileTerminal/Classes/SubProcess/PTY.m -text
 MobileTerminal/Classes/SubProcess/SubProcess.h -text
 MobileTerminal/Classes/SubProcess/SubProcess.m -text
+MobileTerminal/Classes/TerminalGroupView.h -text
+MobileTerminal/Classes/TerminalGroupView.m -text
 MobileTerminal/Classes/TerminalKeyboard.h -text
 MobileTerminal/Classes/TerminalKeyboard.m -text
 MobileTerminal/Classes/TerminalView.h -text
