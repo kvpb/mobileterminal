@@ -3,6 +3,8 @@ MobileTerminal/Classes/MobileTerminalAppDelegate.h -text
 MobileTerminal/Classes/MobileTerminalAppDelegate.m -text
 MobileTerminal/Classes/MobileTerminalViewController.h -text
 MobileTerminal/Classes/MobileTerminalViewController.m -text
+MobileTerminal/Classes/Preferences/FontDataSource.h -text
+MobileTerminal/Classes/Preferences/FontDataSource.m -text
 MobileTerminal/Classes/Preferences/Settings.h -text
 MobileTerminal/Classes/Preferences/Settings.m -text
 MobileTerminal/Classes/Preferences/TerminalSettings.h -text
