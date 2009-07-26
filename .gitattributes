@@ -1,4 +1,6 @@
 * text=auto !eol
+MobileTerminal/Classes/MenuView.h -text
+MobileTerminal/Classes/MenuView.m -text
 MobileTerminal/Classes/MobileTerminalAppDelegate.h -text
 MobileTerminal/Classes/MobileTerminalAppDelegate.m -text
 MobileTerminal/Classes/MobileTerminalViewController.h -text
