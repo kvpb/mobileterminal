@@ -9,6 +9,8 @@ MobileTerminal/Classes/Preferences/Settings.h -text
 MobileTerminal/Classes/Preferences/Settings.m -text
 MobileTerminal/Classes/Preferences/TerminalSettings.h -text
 MobileTerminal/Classes/Preferences/TerminalSettings.m -text
+MobileTerminal/Classes/PreferencesDataSource.h -text
+MobileTerminal/Classes/PreferencesDataSource.m -text
 MobileTerminal/Classes/SubProcess/PTY.h -text
 MobileTerminal/Classes/SubProcess/PTY.m -text
 MobileTerminal/Classes/SubProcess/SubProcess.h -text
@@ -36,9 +38,12 @@ MobileTerminal/MobileTerminal-Info.plist -text
 MobileTerminal/MobileTerminal.xcodeproj/project.pbxproj -text
 MobileTerminal/MobileTerminalViewController.xib -text
 MobileTerminal/MobileTerminal_Prefix.pch -text
+MobileTerminal/PreferencesTests-Info.plist -text
 MobileTerminal/Resources/icon.png -text
 MobileTerminal/Tests/ColorMapTest.h -text
 MobileTerminal/Tests/ColorMapTest.m -text
+MobileTerminal/Tests/PreferencesDataSourceTest.h -text
+MobileTerminal/Tests/PreferencesDataSourceTest.m -text
 MobileTerminal/Tests/VT100Test.h -text
 MobileTerminal/Tests/VT100Test.m -text
 MobileTerminal/VT100Tests-Info.plist -text
