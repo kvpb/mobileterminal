@@ -43,6 +43,7 @@ MobileTerminal/MobileTerminal.xcodeproj/project.pbxproj -text
 MobileTerminal/MobileTerminalViewController.xib -text
 MobileTerminal/MobileTerminal_Prefix.pch -text
 MobileTerminal/PreferencesTests-Info.plist -text
+MobileTerminal/Resources-iPad/MainWindow-iPad.xib -text
 MobileTerminal/Resources/icon.png -text
 MobileTerminal/Tests/ColorMapTest.h -text
 MobileTerminal/Tests/ColorMapTest.m -text
