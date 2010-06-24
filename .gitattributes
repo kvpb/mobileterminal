@@ -9,8 +9,8 @@ MobileTerminal/Classes/Preferences/FontDataSource.h -text
 MobileTerminal/Classes/Preferences/FontDataSource.m -text
 MobileTerminal/Classes/Preferences/MenuSettings.h -text
 MobileTerminal/Classes/Preferences/MenuSettings.m -text
-MobileTerminal/Classes/Preferences/PreferencesDataSource.h -text
-MobileTerminal/Classes/Preferences/PreferencesDataSource.m -text
+MobileTerminal/Classes/Preferences/PreferencesViewController.h -text
+MobileTerminal/Classes/Preferences/PreferencesViewController.m -text
 MobileTerminal/Classes/Preferences/Settings.h -text
 MobileTerminal/Classes/Preferences/Settings.m -text
 MobileTerminal/Classes/Preferences/TerminalSettings.h -text
@@ -49,8 +49,6 @@ MobileTerminal/Tests/ColorMapTest.h -text
 MobileTerminal/Tests/ColorMapTest.m -text
 MobileTerminal/Tests/MenuSettingsTest.h -text
 MobileTerminal/Tests/MenuSettingsTest.m -text
-MobileTerminal/Tests/PreferencesDataSourceTest.h -text
-MobileTerminal/Tests/PreferencesDataSourceTest.m -text
 MobileTerminal/Tests/VT100Test.h -text
 MobileTerminal/Tests/VT100Test.m -text
 MobileTerminal/VT100Tests-Info.plist -text
