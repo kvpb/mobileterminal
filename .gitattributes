@@ -1,4 +1,6 @@
 * text=auto !eol
+MobileTerminal/Classes/GestureResponder.h -text
+MobileTerminal/Classes/GestureResponder.m -text
 MobileTerminal/Classes/MenuView.h -text
 MobileTerminal/Classes/MenuView.m -text
 MobileTerminal/Classes/MobileTerminalAppDelegate.h -text
