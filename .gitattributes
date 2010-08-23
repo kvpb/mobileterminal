@@ -11,6 +11,12 @@ MobileTerminal/Classes/Preferences/BorderedTextView.h -text
 MobileTerminal/Classes/Preferences/BorderedTextView.m -text
 MobileTerminal/Classes/Preferences/FontDataSource.h -text
 MobileTerminal/Classes/Preferences/FontDataSource.m -text
+MobileTerminal/Classes/Preferences/GestureEditViewController.h -text
+MobileTerminal/Classes/Preferences/GestureEditViewController.m -text
+MobileTerminal/Classes/Preferences/GestureSettings.h -text
+MobileTerminal/Classes/Preferences/GestureSettings.m -text
+MobileTerminal/Classes/Preferences/GestureSettingsViewController.h -text
+MobileTerminal/Classes/Preferences/GestureSettingsViewController.m -text
 MobileTerminal/Classes/Preferences/MenuEditViewController.h -text
 MobileTerminal/Classes/Preferences/MenuEditViewController.m -text
 MobileTerminal/Classes/Preferences/MenuSettings.h -text
