@@ -60,6 +60,7 @@ MobileTerminal/PreferencesTests-Info.plist -text
 MobileTerminal/Resources-iPad/Icon-72.png -text
 MobileTerminal/Resources-iPad/Icon-Small-50.png -text
 MobileTerminal/Resources-iPad/MainWindow-iPad.xib -text
+MobileTerminal/Resources/Default.png -text
 MobileTerminal/Resources/Icon-Small.png -text
 MobileTerminal/Resources/Icon-Small@2x.png -text
 MobileTerminal/Resources/Icon.png -text svneol=unset#unset
