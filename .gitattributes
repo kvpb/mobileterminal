@@ -57,8 +57,13 @@ MobileTerminal/MobileTerminal.xcodeproj/project.pbxproj -text
 MobileTerminal/MobileTerminalViewController.xib -text
 MobileTerminal/MobileTerminal_Prefix.pch -text
 MobileTerminal/PreferencesTests-Info.plist -text
+MobileTerminal/Resources-iPad/Icon-72.png -text
+MobileTerminal/Resources-iPad/Icon-Small-50.png -text
 MobileTerminal/Resources-iPad/MainWindow-iPad.xib -text
-MobileTerminal/Resources/icon.png -text
+MobileTerminal/Resources/Icon-Small.png -text
+MobileTerminal/Resources/Icon-Small@2x.png -text
+MobileTerminal/Resources/Icon.png -text svneol=unset#unset
+MobileTerminal/Resources/Icon@2x.png -text
 MobileTerminal/Tests/ColorMapTest.h -text
 MobileTerminal/Tests/ColorMapTest.m -text
 MobileTerminal/Tests/MenuSettingsTest.h -text
