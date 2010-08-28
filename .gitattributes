@@ -1,4 +1,6 @@
 * text=auto !eol
+MobileTerminal/Classes/GestureActionRegistry.h -text
+MobileTerminal/Classes/GestureActionRegistry.m -text
 MobileTerminal/Classes/GestureResponder.h -text
 MobileTerminal/Classes/GestureResponder.m -text
 MobileTerminal/Classes/MenuView.h -text
@@ -51,6 +53,7 @@ MobileTerminal/Classes/VT100/VT100TextView.h -text
 MobileTerminal/Classes/VT100/VT100TextView.m -text
 MobileTerminal/Classes/VT100/VT100Types.h -text
 MobileTerminal/Classes/VT100/charmaps.h -text
+MobileTerminal/GestureInputActions.plist -text
 MobileTerminal/MainWindow.xib -text
 MobileTerminal/MobileTerminal-Info.plist -text
 MobileTerminal/MobileTerminal.xcodeproj/project.pbxproj -text
