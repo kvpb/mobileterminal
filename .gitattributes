@@ -61,6 +61,7 @@ MobileTerminal/MobileTerminal.xcodeproj/project.pbxproj -text
 MobileTerminal/MobileTerminalViewController.xib -text
 MobileTerminal/MobileTerminal_Prefix.pch -text
 MobileTerminal/PreferencesTests-Info.plist -text
+MobileTerminal/PreferencesViewController.xib -text
 MobileTerminal/Resources-iPad/Icon-72.png -text
 MobileTerminal/Resources-iPad/Icon-Small-50.png -text
 MobileTerminal/Resources-iPad/MainWindow-iPad.xib -text
