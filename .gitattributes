@@ -53,6 +53,7 @@ MobileTerminal/Classes/VT100/VT100TextView.h -text
 MobileTerminal/Classes/VT100/VT100TextView.m -text
 MobileTerminal/Classes/VT100/VT100Types.h -text
 MobileTerminal/Classes/VT100/charmaps.h -text
+MobileTerminal/GestureDefaults.plist -text
 MobileTerminal/GestureInputActions.plist -text
 MobileTerminal/MainWindow.xib -text
 MobileTerminal/MobileTerminal-Info.plist -text
