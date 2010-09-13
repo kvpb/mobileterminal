@@ -41,6 +41,8 @@ MobileTerminal/Classes/Terminal/TerminalKeyboard.h -text
 MobileTerminal/Classes/Terminal/TerminalKeyboard.m -text
 MobileTerminal/Classes/Terminal/TerminalView.h -text
 MobileTerminal/Classes/Terminal/TerminalView.m -text
+MobileTerminal/Classes/Terminal/UITextInputBase.h -text
+MobileTerminal/Classes/Terminal/UITextInputBase.m -text
 MobileTerminal/Classes/VT100/ColorMap.h -text
 MobileTerminal/Classes/VT100/ColorMap.m -text
 MobileTerminal/Classes/VT100/VT100.h -text
