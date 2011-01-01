@@ -9,6 +9,8 @@ MobileTerminal/Classes/MobileTerminalAppDelegate.h -text
 MobileTerminal/Classes/MobileTerminalAppDelegate.m -text
 MobileTerminal/Classes/MobileTerminalViewController.h -text
 MobileTerminal/Classes/MobileTerminalViewController.m -text
+MobileTerminal/Classes/Preferences/AboutViewController.h -text
+MobileTerminal/Classes/Preferences/AboutViewController.m -text
 MobileTerminal/Classes/Preferences/BorderedTextView.h -text
 MobileTerminal/Classes/Preferences/BorderedTextView.m -text
 MobileTerminal/Classes/Preferences/GestureEditViewController.h -text
