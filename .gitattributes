@@ -35,8 +35,6 @@ MobileTerminal/Classes/SubProcess/PTY.h -text
 MobileTerminal/Classes/SubProcess/PTY.m -text
 MobileTerminal/Classes/SubProcess/SubProcess.h -text
 MobileTerminal/Classes/SubProcess/SubProcess.m -text
-MobileTerminal/Classes/Terminal/FontMetrics.h -text
-MobileTerminal/Classes/Terminal/FontMetrics.m -text
 MobileTerminal/Classes/Terminal/TerminalGroupView.h -text
 MobileTerminal/Classes/Terminal/TerminalGroupView.m -text
 MobileTerminal/Classes/Terminal/TerminalKeyboard.h -text
@@ -47,10 +45,18 @@ MobileTerminal/Classes/Terminal/UITextInputBase.h -text
 MobileTerminal/Classes/Terminal/UITextInputBase.m -text
 MobileTerminal/Classes/VT100/ColorMap.h -text
 MobileTerminal/Classes/VT100/ColorMap.m -text
+MobileTerminal/Classes/VT100/FontMetrics.h -text
+MobileTerminal/Classes/VT100/FontMetrics.m -text
 MobileTerminal/Classes/VT100/VT100.h -text
 MobileTerminal/Classes/VT100/VT100.m -text
+MobileTerminal/Classes/VT100/VT100RowView.h -text
+MobileTerminal/Classes/VT100/VT100RowView.m -text
 MobileTerminal/Classes/VT100/VT100Screen.h -text
 MobileTerminal/Classes/VT100/VT100Screen.m -text
+MobileTerminal/Classes/VT100/VT100StringSupplier.h -text
+MobileTerminal/Classes/VT100/VT100StringSupplier.m -text
+MobileTerminal/Classes/VT100/VT100TableViewController.h -text
+MobileTerminal/Classes/VT100/VT100TableViewController.m -text
 MobileTerminal/Classes/VT100/VT100Terminal.h -text
 MobileTerminal/Classes/VT100/VT100Terminal.m -text
 MobileTerminal/Classes/VT100/VT100TextView.h -text
