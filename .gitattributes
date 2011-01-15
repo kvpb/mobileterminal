@@ -87,5 +87,8 @@ MobileTerminal/Tests/MenuSettingsTest.m -text
 MobileTerminal/Tests/VT100Test.h -text
 MobileTerminal/Tests/VT100Test.m -text
 MobileTerminal/VT100Tests-Info.plist -text
+MobileTerminal/build_deb.sh -text
+MobileTerminal/build_svnversion.sh -text
+MobileTerminal/control.def -text
 MobileTerminal/main.m -text
 /README -text
